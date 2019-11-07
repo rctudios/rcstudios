@@ -1,0 +1,126 @@
+body{
+	background-color: #fc5e03;
+	border-radius: 2.5%;
+	font: Time New Romans;
+}
+header{
+	background-color:#e6e6e6;
+	margin: .5%;
+	height:100%;
+	padding: 0.5%;
+	border-radius: 0.5%;
+	font: Time New Romans;
+}
+.topnav {
+  background-color: #e6e6e6;
+  overflow: hidden;
+  border: 5%;
+  margin:.5%;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding:14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  background-color: #fc6f03;
+}
+
+.topnav a:hover {
+  background-color: #ff4400;
+  color: white;
+}
+#main{
+  background-color:#fc6f03;
+  width:75%;
+  height:25%;
+  color:white;
+  padding: 0.5%;
+  margin: 2.5%;
+  border-radius: 5%;
+  text-align: center;
+  font: Time New Romans;
+}  
+#Disclaimer{
+  background-color:#fc6f03;
+  width:75%;
+  height:25%;
+  color:white;
+  padding: 0.5%;
+  margin: 2.5%;
+  border-radius: 5%;
+  text-align: center;
+  font: Time New Romans;
+}
+#copyright{
+  background-color:#fc6f03;
+  width:75%;
+  height:25%;
+  color:white;
+  padding: 0.5%;
+  margin: 2.5%;
+  border-radius: 5%;
+  text-align: center;
+  font: Time New Romans;
+}
+.p{
+	color:white;
+}
+#patreons{
+  background-color:#fc6f03;
+  width:75%;
+  height:25%;
+  color:white;
+  padding: 0.5%;
+  margin: 2.5%;
+  border-radius: 5%;
+  text-align: center;
+  font: Time New Romans;
+}
+#own-photo{
+  background-color:#fc6f03;
+  width:75%;
+  height:25%;
+  color:white;
+  padding: 0.5%;
+  margin: 2.5%;
+  border-radius: 5%;
+  text-align: center;
+  font: Time New Romans;
+}
+#youtube-logo{
+   transition: transform 1s;
+}
+#instagram{
+   transition: transform 1s;
+}
+#patreon{
+   transition: transform 1s;
+}
+#links:hover{
+	transform: scale(1.1);
+}
+#info{
+	background-color:#fc6f03;
+	width:75%;
+	height:25%;
+	color:white;
+	padding: 0.5%;
+	margin: 2.5%;
+	border-radius: 5%;
+	text-align: center;
+	font: Time New Romans;
+}
+#all{
+  background-color:#fc6f03;
+  width:75%;
+  height:25%;
+  color:white;
+  padding: 0.5%;
+  margin: 2.5%;
+  border-radius: 5%;
+  text-align: center;
+  font: Time New Romans;
+}

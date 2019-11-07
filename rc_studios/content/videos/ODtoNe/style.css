@@ -1,0 +1,46 @@
+/*Oldest to Newest videos CSS*/
+.topnav {
+  background-color: #e6e6e6;
+  overflow: hidden;
+  border: 5%;
+  margin:.5%;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding:14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  background-color: #fc6f03;
+}
+
+.topnav a:hover {
+  background-color: #ff4400;
+  color: white;
+}
+body{
+  background-color: #fc5e03;
+  border-radius: 2.5%;
+  font: Time New Romans;
+}
+header{
+  background-color:#e6e6e6;
+  margin: .5%;
+  height:100%;
+  padding: 0.5%;
+  border-radius: 0.5%;
+  font: Time New Romans;
+}
+#info{
+  background-color:#fc6f03;
+  width:75%;
+  height:25%;
+  color:white;
+  padding: 0.5%;
+  margin: 2.5%;
+  border-radius: 5%;
+  text-align: center;
+  font: Time New Romans;
+}
