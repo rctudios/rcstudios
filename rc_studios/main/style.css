@@ -83,4 +83,14 @@ iframe{
 	text-align: center;
 	font: Time New Romans;
 }
-
+#extra-info{
+	color: white;
+	background-color: #fc6f03;
+	width:80%;
+	padding-bottom: 5%;
+	margin: 2.5%;
+	border-radius: 2.5%;
+	transition: transform .75s;
+	text-align: center;
+	font: Time New Romans;
+}
