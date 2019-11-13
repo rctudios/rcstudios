@@ -1,4 +1,17 @@
 /*REVIEWS FIRST*/
+body{
+  background-color: #fc5e03;
+	border-radius: 2.5%;
+	font: Time New Romans;
+}
+header{
+  background-color:#e6e6e6;
+	margin: .5%;
+	height:100%;
+	padding: 0.5%;
+	border-radius: 0.5%;
+	font: Time New Romans;
+}
 .nav{
   background-color: #e6e6e6;
   overflow: hidden;
