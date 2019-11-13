@@ -42,7 +42,7 @@ header{
   border-radius: 5%;
   text-align: center;
   font: Time New Romans;
-}  
+}
 #Disclaimer{
   background-color:#fc6f03;
   width:75%;
@@ -123,4 +123,13 @@ header{
   border-radius: 5%;
   text-align: center;
   font: Time New Romans;
+}
+.link a{
+	color:white;
+}
+.link{
+	transition: transform 1s;
+}
+.link a:hover{
+	transform: scale(1.1);
 }
