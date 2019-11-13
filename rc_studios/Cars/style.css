@@ -1,1 +1,40 @@
-/*DON'T DEL THIS*/
+/*REVIEWS FIRST*/
+.nav{
+  background-color: #e6e6e6;
+  overflow: hidden;
+  border: 5%;
+  margin:.5%;
+  transition: transform 0.75s;
+}
+.nav a{
+  color: white;
+  float: left;
+  color: white;
+  text-align: center;
+  padding:14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  background-color: #fc6f03;
+}
+.nav a:hover{
+  transform: scale(1.001)
+  background-color: #ff4400;
+  color: white;
+}
+.img{
+  transition: transform 0.9s;
+}
+.img a:hover{
+  transform: scale(1.1)
+}
+#basic-info{
+  color: white;
+  background-color:#fc6f03;
+  padding: 0.5%;
+	margin: 2.5%;
+	border-radius: 5%;
+	text-align: center;
+	font: Time New Romans;
+  width:75%;
+	height:25%;
+}
