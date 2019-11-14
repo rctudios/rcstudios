@@ -1,3 +1,4 @@
+/*Main*/
 body{
 	background-color: #fc5e03;
 	border-radius: 2.5%;
@@ -67,10 +68,16 @@ iframe{
 }
 #links{
 	transition: transform .25s;
+}
+#links a{
 	color:white;
 }
 #links:hover{
 	transform: scale(1.1);
+}
+.links{
+	color: white;
+
 }
 #car{
 	color: white;
@@ -83,4 +90,14 @@ iframe{
 	text-align: center;
 	font: Time New Romans;
 }
-
+#extra-info{
+	color: white;
+	background-color: #fc6f03;
+	width:80%;
+	padding-bottom: 0.5%;
+	margin: 2.5%;
+	border-radius: 2.5%;
+	transition: transform .75s;
+	text-align: center;
+	font: Time New Romans;
+}
