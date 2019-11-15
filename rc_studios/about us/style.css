@@ -124,12 +124,3 @@ header{
   text-align: center;
   font: Time New Romans;
 }
-.link a{
-	color:white;
-}
-.link{
-	transition: transform 1s;
-}
-.link a:hover{
-	transform: scale(1.1);
-}
