@@ -12,15 +12,14 @@ header{
 	border-radius: 0.5%;
 	font: Time New Romans;
 }
-.nav{
+.topnav {
   background-color: #e6e6e6;
   overflow: hidden;
   border: 5%;
   margin:.5%;
-  transition: transform 0.75s;
 }
-.nav a{
-  color: white;
+
+.topnav a {
   float: left;
   color: white;
   text-align: center;
@@ -29,8 +28,8 @@ header{
   font-size: 16px;
   background-color: #fc6f03;
 }
-.nav a:hover{
-  transform: scale(1.001)
+
+.topnav a:hover {
   background-color: #ff4400;
   color: white;
 }
