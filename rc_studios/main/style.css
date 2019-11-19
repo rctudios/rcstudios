@@ -35,6 +35,7 @@ iframe{
 	border-radius: 2.5%;
 	text-align: center;
 	font: Time New Romans;
+        padding-top: .5%;
 }
 #latest-instagram{
 	color: white;
@@ -46,6 +47,7 @@ iframe{
 	transition: transform 1s;
 	text-align: center;
 	font: Time New Romans;
+        padding-top: 0.5%
 }
 #insta-photo:hover {
 	transform: scale(1.01);
