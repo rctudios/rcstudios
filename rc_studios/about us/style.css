@@ -1,16 +1,16 @@
 /*ABOUT US*/
 body{
-	background-color: #fc5e03;
-	border-radius: 2.5%;
-	font: Time New Romans;
+  background-color: #fc5e03;
+  border-radius: 2.5%;
+  font: Time New Romans;
 }
 header{
-	background-color:#e6e6e6;
-	margin: .5%;
-	height:100%;
-	padding: 0.5%;
-	border-radius: 0.5%;
-	font: Time New Romans;
+  background-color:#e6e6e6;
+  margin: .5%;
+  height:100%;
+  padding: 0.5%;
+  border-radius: 0.5%;
+  font: Time New Romans;
 }
 .topnav {
   background-color: #e6e6e6;
@@ -67,7 +67,7 @@ header{
   font: Time New Romans;
 }
 .p{
-	color:white;
+  color:white;
 }
 #patreons{
   background-color:#fc6f03;
@@ -93,6 +93,7 @@ header{
 }
 #youtube-logo{
    transition: transform 1s;
+  margin-bottom: -6%;
 }
 #instagram{
    transition: transform 1s;
@@ -101,18 +102,18 @@ header{
    transition: transform 1s;
 }
 #links:hover{
-	transform: scale(1.1);
+  transform: scale(1.1);
 }
 #info{
-	background-color:#fc6f03;
-	width:75%;
-	height:25%;
-	color:white;
-	padding: 0.5%;
-	margin: 2.5%;
-	border-radius: 5%;
-	text-align: center;
-	font: Time New Romans;
+  background-color:#fc6f03;
+  width:75%;
+  height:25%;
+  color:white;
+  padding: 0.5%;
+  margin: 2.5%;
+  border-radius: 5%;
+  text-align: center;
+  font: Time New Romans;
 }
 #all{
   background-color:#fc6f03;
@@ -126,14 +127,29 @@ header{
   font: Time New Romans;
 }
 .link{
-	transition: transform .25s;
+  transition: transform .25s;
 }
 .link a{
-	color: white;
+  color: white;
 }
 .link a:hover{
  transform: scale(1.1);
 }
 .linkd a{
-	color: white;
+  color: white;
+}
+#linkab{
+  background-color:#fc6f03;
+  width:15%;
+  height:25%;
+  color:white;
+  padding: 0.5%;
+  margin: 2.5%;
+  border-radius: 5%;
+  text-align: center;
+  font: Time New Romans;
+  transition: transform .25s;
+}
+#linkab:hover{
+  transform: scale(1.1);
 }
