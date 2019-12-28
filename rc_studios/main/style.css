@@ -15,6 +15,15 @@ header{
 iframe{
 
 }
+#logo{
+  padding: 1px;
+  margin: 1px;
+  transition: transform 5s;
+}
+.logo:hover{
+  transform: scale(1.02);
+}
+
 #welcome{
 	background-color:#fc6f03;
 	width:75%;
@@ -94,18 +103,24 @@ iframe{
 	color: white;
 	background-color: #fc6f03;
 	width:80%;
-	padding-bottom: 5%;
+	padding-bottom: 2.5%;
 	margin: 2.5%;
 	border-radius: 2.5%;
 	transition: transform .75s;
 	text-align: center;
 	font: Time New Romans;
+  margin-bottom: 0px;
+  border-bottom: 0px;
+}
+#cars{
+  border-bottom: 0%;
 }
 #extra-info{
 	color: white;
 	background-color: #fc6f03;
 	width:80%;
 	padding-bottom: 0.5%;
+  padding-top: 0.75%;
 	margin: 2.5%;
 	border-radius: 2.5%;
 	transition: transform .75s;
