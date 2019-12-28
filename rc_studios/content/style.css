@@ -36,6 +36,14 @@ header{
 iframe{
 
 }
+#logo{
+  padding: 1px;
+  margin: 1px;
+  transition: transform 5s;
+}
+.logo:hover{
+  transform: scale(1.02);
+}
 #welcome{
   background-color:#fc6f03;
   width:75%;
