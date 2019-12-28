@@ -33,6 +33,15 @@ header{
   background-color: #ff4400;
   color: white;
 }
+#logo{
+  padding: 1px;
+  margin: 1px;
+  transition: transform 5s;
+}
+.logo:hover{
+  transform: scale(1.02);
+}
+
 #main{
   background-color:#fc6f03;
   width:75%;

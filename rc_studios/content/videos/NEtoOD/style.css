@@ -33,6 +33,14 @@ header{
   border-radius: 0.5%;
   font: Time New Romans;
 }
+#logo{
+  padding: 1px;
+  margin: 1px;
+  transition: transform 5s;
+}
+.logo:hover{
+  transform: scale(1.02);
+}
 #info{
   background-color:#fc6f03;
   width:75%;
