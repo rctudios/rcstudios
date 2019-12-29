@@ -23,6 +23,9 @@ iframe{
 .logo:hover{
   transform: scale(1.02);
 }
+.logo:hover a{
+	transform: scale(1.02);
+}
 
 #welcome{
 	background-color:#fc6f03;
