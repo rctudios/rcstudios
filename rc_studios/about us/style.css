@@ -1,6 +1,6 @@
 /*ABOUT US*/
 body{
-  background-color: #fc5e03;
+  background-color: #00528B;
   border-radius: 2.5%;
   font: Time New Romans;
 }
@@ -43,7 +43,7 @@ header{
 }
 
 #main{
-  background-color:#fc6f03;
+  background-color:darkorange;
   width:75%;
   height:25%;
   color:white;
@@ -54,7 +54,7 @@ header{
   font: Time New Romans;
 }
 #Disclaimer{
-  background-color:#fc6f03;
+  background-color:darkorange;
   width:75%;
   height:25%;
   color:white;
@@ -65,7 +65,7 @@ header{
   font: Time New Romans;
 }
 #copyright{
-  background-color:#fc6f03;
+  background-color:darkorange;
   width:75%;
   height:25%;
   color:white;
@@ -79,7 +79,7 @@ header{
   color:white;
 }
 #patreons{
-  background-color:#fc6f03;
+  background-color:darkorange;
   width:75%;
   height:25%;
   color:white;
@@ -90,7 +90,7 @@ header{
   font: Time New Romans;
 }
 #own-photo{
-  background-color:#fc6f03;
+  background-color:darkorange;
   width:75%;
   height:25%;
   color:white;
@@ -125,7 +125,7 @@ header{
   font: Time New Romans;
 }
 #all{
-  background-color:#fc6f03;
+  background-color:darkorange;
   width:75%;
   height:25%;
   color:white;
@@ -148,7 +148,7 @@ header{
   color: white;
 }
 #linkab{
-  background-color:#fc6f03;
+  background-color:darkorange;
   width:15%;
   height:25%;
   color:white;
