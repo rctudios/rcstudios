@@ -114,7 +114,7 @@ header{
   transform: scale(1.1);
 }
 #info{
-  background-color:#fc6f03;
+  background-color: darkorange;
   width:75%;
   height:25%;
   color:white;
